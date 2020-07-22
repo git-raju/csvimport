@@ -3,7 +3,7 @@ CSV data import of millions of records using redis
 
 
 Author : Raju Kumar Yadav
-Phone : +91 954085177
+Phone : 
 ===========================================================================
 Task : Importing a large CSV data into database using Laravel version 5.8
 
